@@ -78,7 +78,7 @@ font-weight: bold;
 .p1{
 text-align: center;
 transform: translateY(410px);
-left 310px;
+left: 310px;
 z-index: 5;
 positon: fixed;
 }
@@ -101,7 +101,7 @@ top: 60px;
 .p2{
 text-align: center;
 transform: translateY(510px);
-left 310px;
+left: 310px;
 z-index: 5;
 positon: fixed;
 }
@@ -124,7 +124,7 @@ font-weight: bold;
 .p2{
 text-align: center;
 transform: translateY(410px);
-left 310px;
+left: 310px;
 z-index: 5;
 positon: fixed;
 }
@@ -147,7 +147,7 @@ font-weight: bold;
 .p1{
 text-align: center;
 transform: translateY(410px);
-left 310px;
+left: 310px;
 z-index: 5;
 positon: fixed;
 }
