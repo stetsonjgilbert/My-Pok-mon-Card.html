@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-  .border{
+  border{
   border: solid 10px #FFF000;
   width: 500px;
   height: 600px;
@@ -11,12 +11,12 @@
   left:300px;
   position: fixed;
   }
-  .main{
+  main{
   width:100%;
   height:100%;
   background:#FFCE00;
 }
-  .h1{
+  h1{
   position:fixed;
   text-align: center;
   top:22px;
@@ -28,14 +28,14 @@
   font-size: large;
   text-align: center;
   }
-.black-square{
+black-square{
 border: solid 5px black;
 height:50px;
 width: 100%;
 z-index: 4;
 border-radius:50px
 }
-  .p3{
+  p3{
   position:fixed;
   text-align: center;
   top:28px;
@@ -47,7 +47,7 @@ border-radius:50px
   font-size: small;
   text-align: center;
   }
-.p4{
+p4{
   position:fixed;
   text-align: center;
   top:22px;
@@ -59,14 +59,14 @@ border-radius:50px
   font-size: large;
   text-align: center;
   }
-.img{
+img{
 width:31.2%;
 height:300px;
 left: 310px;
 position:fixed;
 top: 60px;
 }
-.h2{
+h2{
 text-align: center;
 transform: translateY(400px);
 left: 310px;
@@ -75,21 +75,21 @@ positon: fixed;
 font-size: large;
 font-weight: bold;
 }
-.p1{
+p1{
 text-align: center;
 transform: translateY(410px);
 left: 310px;
 z-index: 5;
 positon: fixed;
 }
-.img{
+img{
 width:31.2%;
 height:300px;
 left: 310px;
 position:fixed;
 top: 60px;
 }
-.h3 {
+h3 {
   text-align: center;
   transform: translateY(500px);
   left: 310px;
@@ -98,21 +98,21 @@ top: 60px;
   font-size: large;
   font-weight: bold;
 }
-.p2{
+p2{
 text-align: center;
 transform: translateY(510px);
 left: 310px;
 z-index: 5;
 positon: fixed;
 }
-.img{
+img{
 width:31.2%;
 height:300px;
 left: 310px;
 position:fixed;
 top: 60px;
 }
-.h2{
+h2{
 text-align: center;
 transform: translateY(400px);
 left: 310px;
@@ -121,21 +121,21 @@ positon: fixed;
 font-size: large;
 font-weight: bold;
 }
-.p2{
+p2{
 text-align: center;
 transform: translateY(410px);
 left: 310px;
 z-index: 5;
 positon: fixed;
 }
-.img{
+img{
 width:31.2%;
 height:300px;
 left: 310px;
 position:fixed;
 top: 60px;
 }
-.h2{
+h2{
 text-align: center;
 transform: translateY(400px);
 left: 310px;
@@ -144,21 +144,21 @@ positon: fixed;
 font-size: large;
 font-weight: bold;
 }
-.p1{
+p1{
 text-align: center;
 transform: translateY(410px);
 left: 310px;
 z-index: 5;
 positon: fixed;
 }
-.img{
+img{
 width:31.2%;
 height:300px;
 left: 310px;
 position:fixed;
 top: 60px;
 }
-.h2{
+h2{
 text-align: center;
 transform: translateY(400px);
 left: 310px;
@@ -167,7 +167,7 @@ positon: fixed;
 font-size: large;
 font-weight: bold;
 }
-.h3{
+h3{
 text-align: center;
 z-index: 5;
 position: fixed;
@@ -175,21 +175,21 @@ font-size: large;
 font-weight: bold;
 left:495px;
 }
-.p1{
+h1{
 text-align: center;
 transform: translateY(410px);
 left: 300px;
 z-index: 5;
 positon: fixed;
 }
-.p2{
+p2{
 text-align: center;
 transform: translateY(455px);
 left: 310px;
 z-index: 5;
 positon: fixed;
 }
-.p5 {
+p5 {
   position: fixed;
   top: 495px;
   left: 740px;
